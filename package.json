@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist" 
+    "deploy": "gh-pages -d dist -r https://github.com/iweed1138/iweed1138.github.io.git"
   },
   "dependencies": {
     "react": "^19.2.8",
